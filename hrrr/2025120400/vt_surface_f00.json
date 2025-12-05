@@ -1,0 +1,17 @@
+{
+  "model": "hrrr",
+  "product": "sfc",
+  "run_time": "2025-12-04T00:00:00Z",
+  "valid_time": "2025-12-04T00:00:00Z",
+  "domain": "vermont",
+  "level_type": "surface",
+  "forecast_hour": 0,
+  "summary": {
+    "t2m_c_min": -19.266677856445312,
+    "t2m_c_max": 11.608306884765625,
+    "t2m_c_mean": -6.9514288902282715,
+    "prate_mmhr_max": 0.0,
+    "prate_mmhr_mean": 0.0,
+    "area_snowing_pct": 0.0
+  }
+}

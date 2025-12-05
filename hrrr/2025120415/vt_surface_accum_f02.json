@@ -1,0 +1,14 @@
+{
+  "model": "hrrr",
+  "product": "sfc",
+  "run_time": "2025-12-04T15:00:00Z",
+  "valid_time": "2025-12-04T17:00:00Z",
+  "domain": "vermont",
+  "level_type": "surface",
+  "forecast_hour": 2,
+  "accum_from_run": true,
+  "summary": {
+    "qpf_accum_mm": 0.12836438417434692,
+    "qpf_accum_in": 0.005053718641382455
+  }
+}

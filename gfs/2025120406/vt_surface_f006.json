@@ -1,0 +1,17 @@
+{
+  "model": "gfs",
+  "product": "pgrb2.0p25",
+  "run_time": "2025-12-04T06:00:00Z",
+  "valid_time": "2025-12-04T12:00:00Z",
+  "domain": "vermont",
+  "level_type": "surface",
+  "forecast_hour": 6,
+  "summary": {
+    "t_sfc_c_min": -9.649993896484375,
+    "t_sfc_c_max": 7.25,
+    "t_sfc_c_mean": -5.393350124359131,
+    "prate_mmhr_max": 1.0900800228118896,
+    "prate_mmhr_mean": 0.12469594180583954,
+    "area_snowing_pct": 32.16783216783217
+  }
+}

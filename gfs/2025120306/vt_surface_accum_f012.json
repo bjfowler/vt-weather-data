@@ -1,0 +1,17 @@
+{
+  "model": "gfs",
+  "product": "pgrb2.0p25",
+  "run_time": "2025120306",
+  "forecast_hour": 12,
+  "valid_time": "2025-12-03T18:00:00.000000000",
+  "vt_bounds": {
+    "lat_min": 42.5,
+    "lat_max": 45.5,
+    "lon_min": -73.5,
+    "lon_max": -71.0
+  },
+  "stats": {
+    "precip_accum_mm": 4.37062931060791,
+    "precip_accum_in": 0.17207211302156447
+  }
+}
